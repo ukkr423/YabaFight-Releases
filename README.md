@@ -4,8 +4,8 @@ Windows用の2D格闘ゲームの配布専用リポジトリです。
 
 ## ダウンロード
 
-- [ゲーム本体 v29（Windows）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v29/YabaFight29-Windows.zip)
-- [対戦サーバー v29（ホストする人だけ）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v29/YabaFight29-Server.zip)
+- [ゲーム本体 v30（Windows）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v30/YabaFight30-Windows.zip)
+- [対戦サーバー v30（ホストする人だけ）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v30/YabaFight30-Server.zip)
 - [リリース一覧](https://github.com/ukkr423/YabaFight-Releases/releases)
 
 ZIPをすべて展開し、`YabaFight.exe`を起動してください。Windows / .NET Framework 4.7.2以降が必要です。
@@ -24,4 +24,4 @@ Assets内のWindows ZIPがゲーム本体です。自動表示されるSource co
 
 配布するのはゲーム・サーバーの実行ファイル、必要なDLL・設定・ライセンスです。
 開発用ソースコード、開発履歴、素材の原本、個人の接続設定や合言葉は公開していません。
-v29：後ろP対空・専用4コマ・夜我のふっとび/発生/ガード差を調整。音の聞こえ方は実機環境によって異なります。
+v30：236/214受付・ステップ速度・後ろ空中ダッシュ・波動拳位置・中割り倍率を調整。音の聞こえ方は実機環境によって異なります。
