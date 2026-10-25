@@ -4,9 +4,12 @@ Windows用の2D格闘ゲームの配布専用リポジトリです。
 
 ## ダウンロード
 
-- [ゲーム本体 v31（Windows）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v31/YabaFight31-Windows.zip)
-- [対戦サーバー v31（ホストする人だけ）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v31/YabaFight31-Server.zip)
+- [ゲーム本体 v0.1.0-beta.1（Windows）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v0.1.0-beta.1/YabaFight0.1.0-beta.1-Windows.zip)
+- [対戦サーバー v0.1.0-beta.1（ホストする人だけ）](https://github.com/ukkr423/YabaFight-Releases/releases/download/v0.1.0-beta.1/YabaFight0.1.0-beta.1-Server.zip)
+- [旧整数版 v31](https://github.com/ukkr423/YabaFight-Releases/releases/tag/v31)
 - [リリース一覧](https://github.com/ukkr423/YabaFight-Releases/releases)
+
+今回の0.1.0-beta.1は開発中のβ版です。全4人の20ヒット目標は調整中（採用ルート16/16/20/16）。参加者・サーバーを同じβ版へそろえてください。
 
 ZIPをすべて展開し、`YabaFight.exe`を起動してください。Windows / .NET Framework 4.7.2以降が必要です。
 GitHubアカウント・招待なしでダウンロードできます。
@@ -24,4 +27,4 @@ Assets内のWindows ZIPがゲーム本体です。自動表示されるSource co
 
 配布するのはゲーム・サーバーの実行ファイル、必要なDLL・設定・ライセンスです。
 開発用ソースコード、開発履歴、素材の原本、個人の接続設定や合言葉は公開していません。
-v31：ダメージ補正・40ヒット上限・ダウンと起き攻め・夜我の22技とヨガアーチ・弾の調整・オンライン背景共有とポーズ禁止・表示速度改善。音の聞こえ方は実機環境によって異なります。
+v0.1.0-beta.1：β系列を開始。先行入力10F・起き上がり20F、床バウンド、ブーストキャンセル、空中必殺技。音の聞こえ方は実機環境によって異なります。
